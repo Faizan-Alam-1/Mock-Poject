@@ -47,8 +47,8 @@ Before installing the required libraries, make sure to create a virtual environm
 #### You can refer to this video or article for creating a virtual environment in Python as given below.
 
 
-[![video](https://img.shields.io/badge/video-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/watch?v=d2r4TF9Ec1I&t=154s)
+[![video](https://img.shields.io/badge/video-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://www.youtube.com/watch?v=d2r4TF9Ec1I&t=154s)
 
-[![Article](https://img.shields.io/badge/Article-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://faizanalam.hashnode.dev/how-to-create-python-virtual-environments-on-ubuntu-or-any-linux-distribution)
+[![Article](https://img.shields.io/badge/Article-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://faizanalam.hashnode.dev/how-to-create-python-virtual-environments-on-ubuntu-or-any-linux-distribution)
 
 
